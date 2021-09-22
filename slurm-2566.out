@@ -1,0 +1,65 @@
+:: initializing oneAPI environment ...
+   BASH version = 4.2.46(1)-release
+:: mpi -- latest
+:: compiler -- latest
+:: dpl -- latest
+:: mkl -- latest
+:: tbb -- latest
+:: ccl -- latest
+:: advisor -- latest
+:: dal -- latest
+:: dev-utilities -- latest
+:: dpcpp-ct -- latest
+:: ipp -- latest
+:: ippcp -- latest
+:: vpl -- latest
+:: intelpython -- latest
+:: dnnl -- latest
+:: debugger -- latest
+:: vtune -- latest
+:: oneAPI environment initialized ::
+------------ Usando 1 procesos ------------
+El número de primos totales en el rango [1,2000000] es 148933
+y tomó un total de: 549.0898659835 segundos
+------------ Usando 2 procesos ------------
+El número de primos totales en el rango [1,2000000] es 148933
+y tomó un total de: 415.1363430358 segundos
+------------ Usando 3 procesos ------------
+El número de primos totales en el rango [1,2000000] es 148933
+y tomó un total de: 330.0783462347 segundos
+------------ Usando 4 procesos ------------
+El número de primos totales en el rango [1,2000000] es 148933
+y tomó un total de: 265.0812173150 segundos
+------------ Usando 5 procesos ------------
+El número de primos totales en el rango [1,2000000] es 148933
+y tomó un total de: 437.3699421920 segundos
+------------ Usando 6 procesos ------------
+El número de primos totales en el rango [1,2000000] es 148933
+y tomó un total de: 371.7204240793 segundos
+------------ Usando 7 procesos ------------
+El número de primos totales en el rango [1,2000000] es 148933
+y tomó un total de: 322.4126506587 segundos
+------------ Usando 8 procesos ------------
+El número de primos totales en el rango [1,2000000] es 148933
+y tomó un total de: 284.7305575423 segundos
+------------ Usando 9 procesos ------------
+El número de primos totales en el rango [1,2000000] es 148933
+y tomó un total de: 383.0602075886 segundos
+------------ Usando 10 procesos ------------
+El número de primos totales en el rango [1,2000000] es 148933
+y tomó un total de: 346.2245361703 segundos
+------------ Usando 11 procesos ------------
+El número de primos totales en el rango [1,2000000] es 148933
+y tomó un total de: 316.3994280808 segundos
+------------ Usando 12 procesos ------------
+El número de primos totales en el rango [1,2000000] es 148933
+y tomó un total de: 290.0419200202 segundos
+------------ Usando 13 procesos ------------
+El número de primos totales en el rango [1,2000000] es 148933
+y tomó un total de: 358.5016016504 segundos
+------------ Usando 14 procesos ------------
+El número de primos totales en el rango [1,2000000] es 148933
+y tomó un total de: 334.2432178957 segundos
+------------ Usando 15 procesos ------------
+El número de primos totales en el rango [1,2000000] es 148933
+y tomó un total de: 307.7266298831 segundos

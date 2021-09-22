@@ -1,0 +1,22 @@
+#!/bin/bash
+
+
+#PBS -l nodes=1:ppn=4
+
+#PBS -l walltime=10:00:00
+#PBS -N MPI
+#PBS -V
+#PBS -q batch
+#PBS -k eo
+
+source /opt/intel/oneapi/setvars.sh
+
+mpicxx primos_reduce.cpp -o rprimos
+
+max_procesos=15
+
+for procs in $(seq 1 $max_procesos); do
+        echo "------------ Usando $procs procesos ------------"
+        mpirun -np $procs ./rprimos 2000000
+done
+
